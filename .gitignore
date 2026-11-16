@@ -1,7 +1,7 @@
-.csv
-.env
-.tar
-.tsv
-.tsv.zip
-.zip
-.env.exemple
+*.csv
+*.env
+*.tar
+*.tsv
+*.tsv.zip
+*.zip
+*.env.exemple
